@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://example.com/post/2016-12-30-hello-markdown/</loc>
+      <loc>/post/2016-12-30-hello-markdown/</loc>
       <lastmod>2016-12-30T21:49:57-07:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>https://example.com/about/</loc>
+      <loc>/about/</loc>
       <lastmod>2016-05-05T21:48:51-07:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>https://example.com/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>https://example.com/post/2015-01-01-lorem-ipsum/</loc>
+      <loc>/post/2015-01-01-lorem-ipsum/</loc>
       <lastmod>2015-01-01T13:09:13-06:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>https://example.com/</loc>
+      <loc>/</loc>
       <lastmod>2016-12-30T21:49:57-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -51,7 +51,7 @@
     
     <url>
     
-      <loc>https://example.com/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>https://example.com/crap_page/</loc>
+      <loc>/crap_page/</loc>
     </url>
     
   
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://example.com/tags/plot/</loc>
+      <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -78,7 +78,7 @@
     
     <url>
     
-      <loc>https://example.com/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2016-12-30T21:49:57-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -88,7 +88,7 @@
     
     <url>
     
-      <loc>https://example.com/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -97,7 +97,7 @@
     
     <url>
     
-      <loc>https://example.com/categories/r/</loc>
+      <loc>/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -107,7 +107,7 @@
     
     <url>
     
-      <loc>https://example.com/tags/r-markdown/</loc>
+      <loc>/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -117,7 +117,7 @@
     
     <url>
     
-      <loc>https://example.com/tags/regression/</loc>
+      <loc>/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -127,7 +127,7 @@
     
     <url>
     
-      <loc>https://example.com/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
