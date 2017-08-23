@@ -7,6 +7,7 @@ output: html_document
 
 Here is the [homework](../crap/homework.zip).
 
+Go to [About ME](../about).
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
