@@ -1,4 +1,6 @@
-baseurl = "/"  # End your URL with a `/` trailing slash.
+# baseurl = "http://ebrentjames.com/"
+baseurl = "/"
+# End your URL with a `/` trailing slash.
 title = "E. Brent James"
 copyright = "&copy; 2016 E. Brent James"
 theme = "hugo-academic"
@@ -154,8 +156,8 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 
 [[menu.main]]
-  name = "Home"
-  url = "#about"
+  name = "About"
+  url = "about/"
   weight = 1
 
 [[menu.main]]
@@ -165,7 +167,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Posts"
-  url = "#posts"
+  url = "/post/"
   weight = 3
 
 [[menu.main]]
