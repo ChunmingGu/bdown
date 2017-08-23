@@ -1,8 +1,8 @@
-name = "Academic"
+name = "E. Brent James"
 license = "MIT"
 licenselink = "https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md"
 description = "Easily create beautifully simple academic or personal sites"
-homepage = "https://github.com/gcushen/hugo-academic"
+homepage = "https://github.com/muschellij2/brown"
 min_version = 0.24
 tags = ["academic",
         "portfolio",

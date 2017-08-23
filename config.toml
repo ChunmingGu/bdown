@@ -1,5 +1,5 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
-title = "Academic"
+title = "E. Brent James"
 copyright = "&copy; 2016 E. Brent James"
 theme = "hugo-academic"
 enableEmoji = true
@@ -16,6 +16,9 @@ googleAnalytics = ""
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+  
 [blackfriday]
   hrefTargetBlank = true
 
