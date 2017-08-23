@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on E. Brent James</title>
-    <link>/publication_types/</link>
+    <link>/about/publication_types/</link>
     <description>Recent content in Publication_types on E. Brent James</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 E. Brent James</copyright>
-    <atom:link href="/publication_types/" rel="self" type="application/rss+xml" />
+    <atom:link href="/about/publication_types/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

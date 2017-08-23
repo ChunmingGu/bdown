@@ -1,5 +1,5 @@
 # baseurl = "http://ebrentjames.com/"
-baseurl = "/"
+baseurl = "/about/"
 # End your URL with a `/` trailing slash.
 title = "E. Brent James"
 copyright = "&copy; 2016 E. Brent James"
@@ -157,7 +157,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "About"
-  url = "about/"
+  url = "/about/"
   weight = 1
 
 [[menu.main]]

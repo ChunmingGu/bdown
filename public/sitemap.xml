@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/2016/12/30/a-plain-markdown-post/</loc>
+      <loc>/about/2016/12/30/a-plain-markdown-post/</loc>
       <lastmod>2016-12-30T21:49:57-07:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/about/</loc>
+      <loc>/about/about/</loc>
       <lastmod>2016-05-05T21:48:51-07:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>/2015/07/23/hello-r-markdown/</loc>
+      <loc>/about/2015/07/23/hello-r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -32,7 +32,7 @@
     
     <url>
     
-      <loc>/2015/01/01/lorem-ipsum/</loc>
+      <loc>/about/2015/01/01/lorem-ipsum/</loc>
       <lastmod>2015-01-01T13:09:13-06:00</lastmod>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/about/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -50,7 +50,7 @@
     
     <url>
     
-      <loc>/crap_page/</loc>
+      <loc>/about/crap_page/</loc>
     </url>
     
   
@@ -58,7 +58,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>/about/</loc>
       <lastmod>2016-12-30T21:49:57-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
+      <loc>/about/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -78,7 +78,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>/about/post/</loc>
       <lastmod>2016-12-30T21:49:57-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -88,7 +88,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>/about/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -97,7 +97,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
+      <loc>/about/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -107,7 +107,7 @@
     
     <url>
     
-      <loc>/tags/r-markdown/</loc>
+      <loc>/about/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -117,7 +117,7 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
+      <loc>/about/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -127,7 +127,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>/about/tags/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
